@@ -1,80 +1,46 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1493048707054">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493147565984">
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
-    <file name="master_a-master.css" crc="4150206326" ref="index"/>
-    <file name="index.css" crc="3889660580" ref="index"/>
+    <file name="master_a-master.css" crc="4159286509" ref="index"/>
+    <file name="index.css" crc="3816668052" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index"/>
-    <file name="museutils.js" crc="3790713428" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index:index"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
-    <file name="webpro.js" crc="329496574" ref="phone>index:index"/>
-    <file name="form_check.php" crc="3805695515" ref="phone>index:index"/>
-    <file name="form_throttle.php" crc="3802629389" ref="phone>index:index"/>
-    <file name="form_process.php" crc="54267062" ref="phone>index:index"/>
-    <file name="form-u1840.php" crc="42841352" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="4219894366" ref="phone>index:index"/>
-    <file name="museredirect.js" crc="71780213" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
     <file name="musewpslideshow.js" crc="394033048" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
     <file name="touchswipe.js" crc="497316881" ref="index"/>
-    <file name="form-u340.php" crc="3837986889" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u340.php" crc="311291636" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index"/>
-    <file name="speaker_03-u971-fr.png" crc="4220311394" ref="phone>index"/>
-    <file name="speaker_02-u972-fr.png" crc="287574460" ref="phone>index"/>
-    <file name="gallery_03-u710-fr.png" crc="15474422" ref="phone>index"/>
-    <file name="gallery_02-u711-fr.png" crc="114773680" ref="phone>index"/>
-    <file name="gallery_01-u712-fr.png" crc="3862423621" ref="phone>index"/>
-    <file name="u1864-17.png" crc="532403934" ref="phone>index"/>
-    <file name="u1864-17-r.png" crc="235939021" ref="phone>index"/>
-    <file name="u1864-17-m.png" crc="235939021" ref="phone>index"/>
-    <file name="u1864-17-fs.png" crc="532403934" ref="phone>index"/>
-    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="phone>index:index"/>
-    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="phone>index:index"/>
-    <file name="checkboxchecked.jpg" crc="3760363524" ref="phone>index:index"/>
-    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="phone>index:index"/>
-    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="phone>index:index"/>
-    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>index:index"/>
-    <file name="u1786.png" crc="3830243537" ref="phone>index"/>
-    <file name="u1786-r.png" crc="120001427" ref="phone>index"/>
-    <file name="u1788.png" crc="3807571440" ref="phone>index"/>
-    <file name="u1788-r.png" crc="4232211895" ref="phone>index"/>
-    <file name="u1790.png" crc="192037712" ref="phone>index"/>
-    <file name="u1790-r.png" crc="221696330" ref="phone>index"/>
-    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
-    <file name="u347-17.png" crc="4069240070" ref="index"/>
-    <file name="u347-17-r.png" crc="281374165" ref="index"/>
-    <file name="u347-17-m.png" crc="281374165" ref="index"/>
-    <file name="u347-17-fs.png" crc="4069240070" ref="index"/>
-    <file name="u1774.png" crc="3830243537" ref="index"/>
-    <file name="u1774-r.png" crc="120001427" ref="index"/>
-    <file name="u1776.png" crc="3807571440" ref="index"/>
-    <file name="u1776-r.png" crc="4232211895" ref="index"/>
-    <file name="u1778.png" crc="192037712" ref="index"/>
-    <file name="u1778-r.png" crc="221696330" ref="index"/>
-    <file name="shotgo.jpg" crc="3800274136" ref="phone>index"/>
-    <file name="gallery_03-u1008-3-fr.png" crc="15474422" ref="index"/>
-    <file name="gallery_02-u1029-4-fr.png" crc="114773680" ref="index"/>
-    <file name="gallery_01-u1032-3-fr.png" crc="3862423621" ref="index"/>
-    <file name="tetracer - screenshot 1.jpg" crc="379351550" ref="index"/>
-    <file name="profilepicture.jpg" crc="451893186" ref="index"/>
-    <file name="shotgo - screenshot one.jpg" crc="3945236162" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="shotgo - screenshot 2.jpg" crc="506656935" ref="index"/>
     <file name="shotgo - screenshot 1.jpg" crc="4095008709" ref="index"/>
+    <file name="shotgo - screenshot 1-u7731-fr.jpg" crc="3938397579" ref="index"/>
+    <file name="shotgo - screenshot 2-u7734-fr.jpg" crc="397191782" ref="index"/>
+    <file name="shotgo - youtube thumb.jpg" crc="219357895" ref="index"/>
+    <file name="shotgo - screenshot 1-u7736-fr.jpg" crc="4112443572" ref="index"/>
+    <file name="shotgo - screenshot 2.jpg" crc="506656935" ref="index"/>
+    <file name="tetracer - screenshot 1.jpg" crc="379351550" ref="index"/>
+    <file name="tetracer - screenshot 2-u7587-fr.jpg" crc="76870597" ref="index"/>
+    <file name="tetracer - screenshot 3-u7585-fr.jpg" crc="47416762" ref="index"/>
+    <file name="tetracer - screenshot 4-u7588-fr.jpg" crc="137891997" ref="index"/>
+    <file name="tetracer - youtube tumb.jpg" crc="147886421" ref="index"/>
     <file name="tetracer - screenshot 2.jpg" crc="490285997" ref="index"/>
     <file name="tetracer - screenshot 3.jpg" crc="4026075233" ref="index"/>
     <file name="tetracer - screenshot 4.jpg" crc="406563549" ref="index"/>
-    <file name="tetracer - screenshot 12.jpg" crc="212295979" ref="index"/>
-    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66.jpg" crc="3851533219" ref="index" seo="true"/>
+    <file name="u5389-7.png" crc="381031586" ref="index"/>
     <file name="4197d7_3df0acde9f12408dab5404b9dde61337.jpg" crc="4130349270" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="4197d7_3dfc87ab052346408183fe7a0e82c4af.jpg" crc="99401506" seo="true" ref="index"/>
+    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66.jpg" crc="3851533219" seo="true" ref="index"/>
     <file name="4197d7_645817b087c04a15aeaa718c7c9dcbcf.jpg" crc="130989836" seo="true" ref="index"/>
     <file name="4197d7_c76f48797c1f473a9c02c31631e77429.jpg" crc="3817251524" seo="true" ref="index"/>
     <file name="4197d7_c83ef38a69d943ae8b170867c4cdd655.jpg" crc="380228511" seo="true" ref="index"/>
@@ -88,28 +54,36 @@
     <file name="4197d7_c83ef38a69d943ae8b170867c4cdd65591x51.jpg" crc="4112720664" seo="true" ref="index"/>
     <file name="4197d7_e71b740debb24fe8bd59fde8e010033091x51.jpg" crc="109497169" seo="true" ref="index"/>
     <file name="4197d7_f1f06b871fdb48cf82a1854e14a602cb91x51.jpg" crc="3801169625" seo="true" ref="index"/>
-    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66-u5642-fr.jpg" crc="254070673" ref="index"/>
-    <file name="u5389-7.png" crc="381031586" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u6691-7.png" crc="3850684721" ref="index"/>
-    <file name="tetracer - youtube tumb.jpg" crc="147886421" ref="index"/>
-    <file name="tetracer - screenshot 2-u7587-fr.jpg" crc="76870597" ref="index"/>
-    <file name="tetracer - screenshot 3-u7585-fr.jpg" crc="47416762" ref="index"/>
-    <file name="tetracer - screenshot 4-u7588-fr.jpg" crc="137891997" ref="index"/>
-    <file name="shotgo - screenshot 1-u7731-fr.jpg" crc="3938397579" ref="index"/>
-    <file name="shotgo - screenshot 2-u7734-fr.jpg" crc="397191782" ref="index"/>
-    <file name="shotgo - screenshot 1-u7736-fr.jpg" crc="4112443572" ref="index"/>
-    <file name="shotgo - youtube thumb.jpg" crc="219357895" ref="index"/>
+    <file name="shotgo - screenshot one.jpg" crc="3945236162" ref="index"/>
+    <file name="tetracer - screenshot 12.jpg" crc="212295979" ref="index"/>
+    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66-u5642-fr.jpg" crc="254070673" ref="index"/>
     <file name="social_00_facebook.png" crc="3917053515" ref="index"/>
     <file name="social_01_twitter.png" crc="318196045" ref="index"/>
     <file name="social_06_linkedin.png" crc="4232862611" ref="index"/>
     <file name="social_03_google-plus.png" crc="4215200637" ref="index"/>
+    <file name="profilepicture.jpg" crc="451893186" ref="index"/>
+    <file name="gallery_03-u1008-3-fr.png" crc="15474422" ref="index"/>
+    <file name="gallery_02-u1029-4-fr.png" crc="114773680" ref="index"/>
+    <file name="gallery_01-u1032-3-fr.png" crc="3862423621" ref="index"/>
+    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
+    <file name="u347-17.png" crc="4069240070" ref="index"/>
+    <file name="u347-17-r.png" crc="281374165" ref="index"/>
+    <file name="u347-17-m.png" crc="281374165" ref="index"/>
+    <file name="u347-17-fs.png" crc="4069240070" ref="index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="index"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
+    <file name="u1774.png" crc="3830243537" ref="index"/>
+    <file name="u1774-r.png" crc="120001427" ref="index"/>
+    <file name="u1776.png" crc="3807571440" ref="index"/>
+    <file name="u1776-r.png" crc="4232211895" ref="index"/>
+    <file name="u1778.png" crc="192037712" ref="index"/>
+    <file name="u1778-r.png" crc="221696330" ref="index"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="3936806406" ref="phone>index"/>
-      <file name="index.css" crc="96392305" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="1792075" seo="true" mt="1492678534354" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="3770809189" seo="true" mt="1493048678505" redirect="true"/>
+  <file name="index.html" crc="3821986446" seo="true" mt="1493147557792" redirect="true"/>
 </manifest>
