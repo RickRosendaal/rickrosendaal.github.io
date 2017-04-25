@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493147565984">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493148165402">
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
     <file name="master_a-master.css" crc="4159286509" ref="index"/>
-    <file name="index.css" crc="3816668052" ref="index"/>
+    <file name="index.css" crc="262388162" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -85,5 +85,5 @@
     <file name="u1778.png" crc="192037712" ref="index"/>
     <file name="u1778-r.png" crc="221696330" ref="index"/>
   </folder>
-  <file name="index.html" crc="3821986446" seo="true" mt="1493147557792" redirect="true"/>
+  <file name="index.html" crc="83575215" seo="true" mt="1493148152080" redirect="true"/>
 </manifest>
