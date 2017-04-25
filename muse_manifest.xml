@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493148327607">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493154202625">
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
     <file name="master_a-master.css" crc="4159286509" ref="index"/>
-    <file name="index.css" crc="31860436" ref="index"/>
+    <file name="index.css" crc="4186217186" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -18,7 +18,7 @@
     <file name="form_check.php" crc="3805695515" ref="index"/>
     <file name="form_throttle.php" crc="3802629389" ref="index"/>
     <file name="form_process.php" crc="54267062" ref="index"/>
-    <file name="form-u340.php" crc="311291636" ref="index"/>
+    <file name="form-u340.php" crc="4231186316" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
   </folder>
   <folder name="images">
@@ -64,19 +64,10 @@
     <file name="social_06_linkedin.png" crc="4232862611" ref="index"/>
     <file name="social_03_google-plus.png" crc="4215200637" ref="index"/>
     <file name="profilepicture.jpg" crc="451893186" ref="index"/>
-    <file name="gallery_03-u1008-3-fr.png" crc="15474422" ref="index"/>
-    <file name="gallery_02-u1029-4-fr.png" crc="114773680" ref="index"/>
-    <file name="gallery_01-u1032-3-fr.png" crc="3862423621" ref="index"/>
-    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
     <file name="u347-17.png" crc="4069240070" ref="index"/>
     <file name="u347-17-r.png" crc="281374165" ref="index"/>
     <file name="u347-17-m.png" crc="281374165" ref="index"/>
     <file name="u347-17-fs.png" crc="4069240070" ref="index"/>
-    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="index"/>
-    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="index"/>
-    <file name="checkboxchecked.jpg" crc="3760363524" ref="index"/>
-    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="index"/>
-    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="index"/>
     <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
     <file name="u1774.png" crc="3830243537" ref="index"/>
     <file name="u1774-r.png" crc="120001427" ref="index"/>
@@ -85,5 +76,5 @@
     <file name="u1778.png" crc="192037712" ref="index"/>
     <file name="u1778-r.png" crc="221696330" ref="index"/>
   </folder>
-  <file name="index.html" crc="129553600" seo="true" mt="1493148313108" redirect="true"/>
+  <file name="index.html" crc="174527025" seo="true" mt="1493154190982" redirect="true"/>
 </manifest>

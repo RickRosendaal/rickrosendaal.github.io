@@ -49,27 +49,12 @@ $form = array(
 			)
 		),
 		'custom_U993' => array(
-			'order' => 4,
+			'order' => 3,
 			'type' => 'string',
 			'label' => 'Message',
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Message\' is required.'
-			)
-		),
-		'custom_U1795' => array(
-			'order' => 3,
-			'type' => 'checkboxgroup',
-			'label' => 'HOTEL, TRANSPORTATION, GUEST',
-			'required' => true,
-			'optionItems' => array(
-				'TRANSPORTATION',
-				'HOTEL',
-				'GUEST'
-			),
-			'errors' => array(
-				'required' => 'Field \'HOTEL, TRANSPORTATION, GUEST\' is required.',
-				'format' => 'Field \'HOTEL, TRANSPORTATION, GUEST\' has an invalid value.'
 			)
 		)
 	)
