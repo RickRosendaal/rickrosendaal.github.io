@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493294714738">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493300589867">
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
     <file name="master_a-master.css" crc="3813256392" ref="index"/>
-    <file name="index.css" crc="352327647" ref="index"/>
+    <file name="index.css" crc="478282387" ref="index"/>
     <file name="iefonts_index.css" crc="4215073414" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -86,6 +86,8 @@
     <file name="page one.png" crc="396563454" ref="index"/>
     <file name="page two.png" crc="46982986" ref="index"/>
     <file name="page three.png" crc="3918728785" ref="index"/>
+    <file name="4197d7_24fe79a6ab794369b967b71c0a1106ff.jpg" crc="4116689634" ref="index"/>
+    <file name="4197d7_04486e3d9f1e42e38257d48caa1fb643.jpg" crc="210460690" ref="index"/>
   </folder>
-  <file name="index.html" crc="419482375" seo="true" mt="1493294711788" redirect="true"/>
+  <file name="index.html" crc="265062733" seo="true" mt="1493300586437" redirect="true"/>
 </manifest>
