@@ -1,9 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493300589867">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493485350078">
+  <folder name="assets">
+    <file name="4197d7_04486e3d9f1e42e38257d48caa1fb643.png" crc="101365724" seo="true" mt="1492711074000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
     <file name="master_a-master.css" crc="3813256392" ref="index"/>
-    <file name="index.css" crc="478282387" ref="index"/>
-    <file name="iefonts_index.css" crc="4215073414" ref="index"/>
+    <file name="index.css" crc="173184970" ref="index"/>
+    <file name="iefonts_index.css" crc="4027027981" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -83,11 +86,33 @@
     <file name="4197d7_28bbbce491344339a41f4e0d3518a563.jpg" crc="273428872" ref="index"/>
     <file name="4197d7_0678e9d4510646c9a305e976441773b7.jpg" crc="373744334" ref="index"/>
     <file name="4197d7_b6ae6521aaf947d4887e04dc1370bd46.jpg" crc="3967404793" ref="index"/>
-    <file name="page one.png" crc="396563454" ref="index"/>
-    <file name="page two.png" crc="46982986" ref="index"/>
-    <file name="page three.png" crc="3918728785" ref="index"/>
-    <file name="4197d7_24fe79a6ab794369b967b71c0a1106ff.jpg" crc="4116689634" ref="index"/>
     <file name="4197d7_04486e3d9f1e42e38257d48caa1fb643.jpg" crc="210460690" ref="index"/>
+    <file name="4197d7_cfec3a5271ab443d8efc27c9a14fd3e6.jpg" crc="3818183774" ref="index"/>
+    <file name="4197d7_49e3b22a46664fdea831c307f5303773.jpg" crc="4213385936" ref="index"/>
+    <file name="tap - turn - thumbnail 1.jpg" crc="4035460841" ref="index"/>
+    <file name="tap - turn - thumbnail 2.jpg" crc="143130269" ref="index"/>
+    <file name="tap - turn - thumbnail 3.jpg" crc="15536462" ref="index"/>
+    <file name="4197d7_b20ebece28884725941a0220ad2c5018.jpg" crc="3841134288" ref="index"/>
+    <file name="4197d7_95a88aa272a24a09931576aa5493d37d-u10026-a-fr.jpg" crc="4119427678" ref="index"/>
+    <file name="4197d7_1fc2587556e548cd8ad1289d5aa0bfe0-u10027-fr.jpg" crc="263379052" ref="index"/>
+    <file name="4197d7_4c63657ab33b4f17b60671b61d2f870a-u10233-fr.jpg" crc="4144042581" ref="index"/>
+    <file name="4197d7_54b9a1f65b244535a6273a2d40839112-u10241-fr.jpg" crc="427239294" ref="index"/>
+    <file name="4197d7_54c495beaef04597a481efb0fed60604-u10277-fr.jpg" crc="105984536" ref="index"/>
+    <file name="4197d7_95a88aa272a24a09931576aa5493d37d.jpg" crc="4059878825" ref="index"/>
+    <file name="4197d7_1fc2587556e548cd8ad1289d5aa0bfe0.jpg" crc="4222376544" ref="index"/>
+    <file name="4197d7_4c63657ab33b4f17b60671b61d2f870a.jpg" crc="1553804" ref="index"/>
+    <file name="4197d7_54b9a1f65b244535a6273a2d40839112.jpg" crc="117611052" ref="index"/>
+    <file name="4197d7_54c495beaef04597a481efb0fed60604.jpg" crc="454997878" ref="index"/>
+    <file name="4197d7_54b9a1f65b244535a6273a2d40839112-u7948-fr.jpg" crc="311760254" ref="index"/>
+    <file name="hacksagon - youtube tumb-u10028-fr.jpg" crc="178237135" ref="index"/>
+    <file name="hacksagon - youtube tumb.jpg" crc="63302409" ref="index"/>
+    <file name="4197d7_ef2c46a1864e4f57a2579770da4e5e16.jpg" crc="4023709697" ref="index"/>
+    <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0.jpg" crc="3766014100" ref="index"/>
+    <file name="4197d7_ef2c46a1864e4f57a2579770da4e5e16-u10093-fr.jpg" crc="3903592093" ref="index"/>
+    <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0-u10091-fr.jpg" crc="4286837309" ref="index"/>
+    <file name="4197d7_0bca8f99b6b244c0b763fe8a6889e220-u10092-fr.jpg" crc="52537792" ref="index"/>
+    <file name="4197d7_0bca8f99b6b244c0b763fe8a6889e220.jpg" crc="327545362" ref="index"/>
+    <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0-u7954-fr.jpg" crc="208507808" ref="index"/>
   </folder>
-  <file name="index.html" crc="265062733" seo="true" mt="1493300586437" redirect="true"/>
+  <file name="index.html" crc="18558804" seo="true" mt="1493485346235" redirect="true"/>
 </manifest>
