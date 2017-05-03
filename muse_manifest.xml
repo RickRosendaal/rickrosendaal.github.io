@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493488000470">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="rickrosendaal.github.io" resolutions="1x" timestamp="1493591267492">
   <folder name="assets">
     <file name="4197d7_04486e3d9f1e42e38257d48caa1fb643.png" crc="101365724" seo="true" mt="1492711074000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
     <file name="master_a-master.css" crc="3813256392" ref="index"/>
-    <file name="index.css" crc="428545803" ref="index"/>
-    <file name="iefonts_index.css" crc="4142075953" ref="index"/>
+    <file name="index.css" crc="3826566100" ref="index"/>
+    <file name="iefonts_index.css" crc="76377182" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -28,10 +28,10 @@
   <folder name="images">
     <file name="shotgo - screenshot 1.jpg" crc="4095008709" ref="index"/>
     <file name="shotgo - screenshot 2-u7734-fr.jpg" crc="4050717098" ref="index"/>
-    <file name="shotgo - youtube thumb.jpg" crc="219357895" ref="index"/>
+    <file name="shotgo - youtube thumb.jpg" crc="258074518" ref="index"/>
     <file name="shotgo - screenshot 2.jpg" crc="3839989279" ref="index"/>
     <file name="tetracer - screenshot 1.jpg" crc="4015384816" ref="index"/>
-    <file name="tetracer - youtube tumb.jpg" crc="147886421" ref="index"/>
+    <file name="tetracer - youtube tumb.jpg" crc="3980886612" ref="index"/>
     <file name="tetracer - screenshot 2.jpg" crc="4243832588" ref="index"/>
     <file name="tetracer - screenshot 3.jpg" crc="217480962" ref="index"/>
     <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66.jpg" crc="3851533219" ref="index"/>
@@ -53,36 +53,29 @@
     <file name="u1776-r.png" crc="4232211895" ref="index"/>
     <file name="u1778.png" crc="192037712" ref="index"/>
     <file name="u1778-r.png" crc="221696330" ref="index"/>
-    <file name="tetracer - youtube tumb-u8780-fr.jpg" crc="302572038" ref="index"/>
+    <file name="tetracer - youtube tumb-u8780-fr.jpg" crc="4074985357" ref="index"/>
     <file name="tetracer - screenshot 1-u8778-fr.jpg" crc="4230947208" ref="index"/>
     <file name="tetracer - screenshot 2-u8779-fr.jpg" crc="227842212" ref="index"/>
     <file name="tetracer - screenshot 3-u8846-fr.jpg" crc="510141823" ref="index"/>
     <file name="shotgo - screenshot 1-u7733-fr.jpg" crc="3938397579" ref="index"/>
     <file name="shotgo - screenshot 1-u8994-fr.jpg" crc="4112443572" ref="index"/>
-    <file name="the deep blue - youtube tumb-u9043-fr.jpg" crc="4131419151" ref="index"/>
+    <file name="the deep blue - youtube tumb-u9043-fr.jpg" crc="68122615" ref="index"/>
     <file name="the deep blue - screenshot 1-u9045-fr.jpg" crc="525829003" ref="index"/>
     <file name="the deep blue - screenshot 2-u9044-fr.jpg" crc="331663005" ref="index"/>
     <file name="the deep blue - screenshot 3-u9046-fr.jpg" crc="18245643" ref="index"/>
-    <file name="the deep blue - youtube tumb.jpg" crc="536618914" ref="index"/>
+    <file name="the deep blue - youtube tumb.jpg" crc="455393897" ref="index"/>
     <file name="the deep blue - screenshot 1.jpg" crc="3817489665" ref="index"/>
     <file name="the deep blue - screenshot 2.jpg" crc="280587187" ref="index"/>
     <file name="the deep blue - screenshot 3.jpg" crc="4121476562" ref="index"/>
     <file name="the deep blue - screenshot 1-u5642-fr.jpg" crc="4292012012" ref="index"/>
-    <file name="4197d7_ef17fec3f10b4b44b0a2cd1ed8989023-u9221-fr.jpg" crc="49292380" ref="index"/>
-    <file name="4197d7_5d387f20ee7f46f0947b53749e420718-u9219-fr.jpg" crc="3838826872" ref="index"/>
-    <file name="4197d7_e71b740debb24fe8bd59fde8e0100330-u9220-fr.jpg" crc="109497169" ref="index"/>
-    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66-u9314-fr.jpg" crc="3764327792" ref="index"/>
-    <file name="4197d7_efecd7adb518479b8d931fcb591a5a33-u9328-fr.jpg" crc="26453906" ref="index"/>
     <file name="4197d7_ef17fec3f10b4b44b0a2cd1ed8989023.jpg" crc="291626757" ref="index"/>
     <file name="4197d7_5d387f20ee7f46f0947b53749e420718.jpg" crc="4239712865" ref="index"/>
     <file name="4197d7_e71b740debb24fe8bd59fde8e0100330.jpg" crc="4143310624" ref="index"/>
     <file name="4197d7_efecd7adb518479b8d931fcb591a5a33.jpg" crc="3767507065" ref="index"/>
-    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66-u7936-fr.jpg" crc="254070673" ref="index"/>
-    <file name="shotgo - youtube thumb-u7731-fr.jpg" crc="498454382" ref="index"/>
+    <file name="shotgo - youtube thumb-u7731-fr.jpg" crc="339641844" ref="index"/>
     <file name="4197d7_5b3e3b53d9cd4ccca435efa4a77cc001.jpg" crc="4092459389" ref="index"/>
     <file name="4197d7_944957969e7842709d9a4f5e530e9672.jpg" crc="3862427824" ref="index"/>
     <file name="4197d7_2bcd0ac77482452e95af09f96243dc8b.jpg" crc="88110298" ref="index"/>
-    <file name="4197d7_5b3e3b53d9cd4ccca435efa4a77cc001-u7942-fr.jpg" crc="80988473" ref="index"/>
     <file name="4197d7_28bbbce491344339a41f4e0d3518a563.jpg" crc="273428872" ref="index"/>
     <file name="4197d7_0678e9d4510646c9a305e976441773b7.jpg" crc="373744334" ref="index"/>
     <file name="4197d7_b6ae6521aaf947d4887e04dc1370bd46.jpg" crc="3967404793" ref="index"/>
@@ -104,28 +97,33 @@
     <file name="4197d7_54b9a1f65b244535a6273a2d40839112.jpg" crc="117611052" ref="index"/>
     <file name="4197d7_54c495beaef04597a481efb0fed60604.jpg" crc="454997878" ref="index"/>
     <file name="4197d7_54b9a1f65b244535a6273a2d40839112-u7948-fr.jpg" crc="311760254" ref="index"/>
-    <file name="hacksagon - youtube tumb-u10028-fr.jpg" crc="178237135" ref="index"/>
-    <file name="hacksagon - youtube tumb.jpg" crc="63302409" ref="index"/>
+    <file name="hacksagon - youtube tumb-u10028-fr.jpg" crc="3930497373" ref="index"/>
+    <file name="hacksagon - youtube tumb.jpg" crc="4237451854" ref="index"/>
     <file name="4197d7_ef2c46a1864e4f57a2579770da4e5e16.jpg" crc="4023709697" ref="index"/>
     <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0.jpg" crc="3766014100" ref="index"/>
-    <file name="4197d7_ef2c46a1864e4f57a2579770da4e5e16-u10093-fr.jpg" crc="3903592093" ref="index"/>
-    <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0-u10091-fr.jpg" crc="4286837309" ref="index"/>
-    <file name="4197d7_0bca8f99b6b244c0b763fe8a6889e220-u10092-fr.jpg" crc="52537792" ref="index"/>
     <file name="4197d7_0bca8f99b6b244c0b763fe8a6889e220.jpg" crc="327545362" ref="index"/>
-    <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0-u7954-fr.jpg" crc="208507808" ref="index"/>
-    <file name="4197d7_cc671334314941d8bdfffa8538471356.jpg" crc="355893407" ref="index"/>
-    <file name="screenshot_20170429-192411.jpg" crc="3940632434" ref="index"/>
-    <file name="screenshot_20170429-192324.jpg" crc="3998131647" ref="index"/>
-    <file name="screenshot_20170429-192615.jpg" crc="460868088" ref="index"/>
-    <file name="screenshot_20170429-192630.jpg" crc="355893037" ref="index"/>
-    <file name="screenshot_20170429-192336.jpg" crc="4148169698" ref="index"/>
-    <file name="screenshot_20170429-192247.jpg" crc="497685942" ref="index"/>
-    <file name="screenshot_20170429-192459.jpg" crc="3773077686" ref="index"/>
-    <file name="scaledscreenshot.jpg" crc="146806637" ref="index"/>
-    <file name="screenshot_20170429-192233.png" crc="200810687" ref="index"/>
-    <file name="swipe - thumbnail 1.jpg" crc="3877726169" ref="index"/>
-    <file name="swipe - thumbnail 2.jpg" crc="329805841" ref="index"/>
-    <file name="swipe - thumbnail 3.jpg" crc="291434420" ref="index"/>
+    <file name="4197d7_ef17fec3f10b4b44b0a2cd1ed8989023-u11030-fr.jpg" crc="49292380" ref="index"/>
+    <file name="4197d7_5d387f20ee7f46f0947b53749e420718-u11028-fr.jpg" crc="3838826872" ref="index"/>
+    <file name="4197d7_e71b740debb24fe8bd59fde8e0100330-u11029-fr.jpg" crc="109497169" ref="index"/>
+    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66-u11032-fr.jpg" crc="3764327792" ref="index"/>
+    <file name="4197d7_efecd7adb518479b8d931fcb591a5a33-u11031-fr.jpg" crc="26453906" ref="index"/>
+    <file name="4197d7_ef2c46a1864e4f57a2579770da4e5e16-u10787-fr.jpg" crc="3903592093" ref="index"/>
+    <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0-u10788-fr.jpg" crc="4286837309" ref="index"/>
+    <file name="4197d7_0bca8f99b6b244c0b763fe8a6889e220-u10786-fr.jpg" crc="52537792" ref="index"/>
+    <file name="droid defense - youtube tumb-u11155-fr.jpg" crc="4162096097" ref="index"/>
+    <file name="droid defense - screenshot 1-u11154-fr.jpg" crc="436228496" ref="index"/>
+    <file name="droid defense - screenshot 2-u11157-fr.jpg" crc="305913600" ref="index"/>
+    <file name="droid defense - screenshot 3-u11156-fr.jpg" crc="461537211" ref="index"/>
+    <file name="droid defense - screenshot 4-u11253-fr.jpg" crc="67688149" ref="index"/>
+    <file name="droid defense - youtube tumb.jpg" crc="4288741804" ref="index"/>
+    <file name="droid defense - screenshot 1.jpg" crc="407039557" ref="index"/>
+    <file name="droid defense - screenshot 2.jpg" crc="3811525504" ref="index"/>
+    <file name="droid defense - screenshot 3.jpg" crc="3922533061" ref="index"/>
+    <file name="droid defense - screenshot 4.jpg" crc="338667015" ref="index"/>
+    <file name="droid defense - screenshot 4-u7936-fr.jpg" crc="3984708695" ref="index"/>
+    <file name="4197d7_0190f9b0f53b477d958cd53d3fe54a66-u7942-fr.jpg" crc="254070673" ref="index"/>
+    <file name="4197d7_5b3e3b53d9cd4ccca435efa4a77cc001-u7954-fr.jpg" crc="80988473" ref="index"/>
+    <file name="4197d7_ad37ab4dc2674b8ca9a6a0b06f4cada0-u7960-fr.jpg" crc="208507808" ref="index"/>
   </folder>
-  <file name="index.html" crc="315846679" seo="true" mt="1493487996531" redirect="true"/>
+  <file name="index.html" crc="154440842" seo="true" mt="1493591246095" redirect="true"/>
 </manifest>
