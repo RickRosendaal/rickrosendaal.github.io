@@ -1,7 +1,9 @@
 function createSectionImages() {
 	function createImageElement(src) {
 		var img = document.createElement("img");
-		img.setAttribute("src", fileLocationPrefix + src);
+
+		var imgSrc = (src.toLowerCase().startsWith("http") ? (fileLocationPrefix + src) : src);
+		img.setAttribute("src", imgSrc);
 		img.setAttribute("class", "section-image waitUntilLoaded");
 		return img;
 	}
