@@ -10,7 +10,6 @@ function createMenuItem(section) {
 		$('body').addClass('loading');
 
 		if (section.id == "What-do-I-do") {
-			currentPage = "portfolio/";
 			if (location.protocol == "file:") {
 				history.replaceState({}, "Portfolio", "#" + "portfolio");
 			} else {
@@ -18,7 +17,7 @@ function createMenuItem(section) {
 			}
 			onUnloadPage();
 			setTimeout(function() {
-				$('#main-content').load('./portfolio.html #main-content', function() {
+				$('#main-content').load(fileLocationPrefix + 'portfolio.html #main-content', function() {
 					createSectionImages();
 					waitForImagesToLoad();
 					onLoadPage();
@@ -36,7 +35,7 @@ function createMenuItem(section) {
 			}
 			onUnloadPage();
 			setTimeout(function() {
-				$('#main-content').load('./index.html #main-content', function() {
+				$('#main-content').load(fileLocationPrefix + 'index.html #main-content', function() {
 					createSectionImages();
 					waitForImagesToLoad();
 					onLoadPage();
