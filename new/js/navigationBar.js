@@ -14,8 +14,7 @@ function createMenuItem(section) {
 			if (location.protocol == "file:") {
 				history.replaceState({}, "Portfolio", "#" + "portfolio");
 			} else {
-				history.replaceState({}, "Portfolio", +"/" +
-					currentPage);
+				history.replaceState({}, "Portfolio", +currentPage);
 			}
 			onUnloadPage();
 			setTimeout(function() {
@@ -33,8 +32,7 @@ function createMenuItem(section) {
 			if (location.protocol == "file:") {
 				history.replaceState({}, "Home", "#");
 			} else {
-				history.replaceState({}, "Home", +"/" +
-					currentPage);
+				history.replaceState({}, "Home", +currentPage);
 			}
 			onUnloadPage();
 			setTimeout(function() {

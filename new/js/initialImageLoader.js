@@ -20,7 +20,7 @@ function waitForImagesToLoad() {
 
 			if (imagesToLoad == 0)
 				document.dispatchEvent(invokeLoaded);
-		}, 15000)
+		}, 5000)
 
 		img.onload = function() {
 			if (loaded)
