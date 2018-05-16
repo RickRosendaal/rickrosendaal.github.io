@@ -18,7 +18,7 @@ function createMenuItem(section) {
 			}
 			onUnloadPage();
 			setTimeout(function() {
-				$('#main-content').load('portfolio.html #main-content', function() {
+				$('#main-content').load('./portfolio.html #main-content', function() {
 					createSectionImages();
 					waitForImagesToLoad();
 					onLoadPage();
@@ -36,7 +36,7 @@ function createMenuItem(section) {
 			}
 			onUnloadPage();
 			setTimeout(function() {
-				$('#main-content').load('index.html #main-content', function() {
+				$('#main-content').load('./index.html #main-content', function() {
 					createSectionImages();
 					waitForImagesToLoad();
 					onLoadPage();
