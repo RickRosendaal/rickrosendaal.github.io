@@ -1,0 +1,44 @@
+.loader {
+    border       : 8px solid #f3f3f3;
+    /* Light grey */
+    border-top   : 8px solid #000000;
+    /* Blue */
+    border-radius: 50%;
+    animation    : spin 1.8s linear infinite;
+    width        : 120px;
+    height       : 120px;
+    position     : absolute;
+}
+
+.loader.inner {
+    border       : 8px solid #f3f3f3;
+    /* Light grey */
+    border-top   : 8px solid #000000;
+    /* Blue */
+    border-radius: 50%;
+    animation    : spin 2s linear infinite;
+    width        : 100px;
+    height       : 100px;
+}
+
+.loader.center {
+    border       : 8px solid #f3f3f3;
+    /* Light grey */
+    border-top   : 8px solid #000000;
+    /* Blue */
+    border-radius: 50%;
+    animation    : spin 2.2s linear infinite;
+    width        : 120px;
+    height       : 120px;
+}
+
+.loader.outer {
+    border       : 8px solid #f3f3f3;
+    /* Light grey */
+    border-top   : 8px solid #000000;
+    /* Blue */
+    border-radius: 50%;
+    animation    : spin 2.2s linear infinite;
+    width        : 120px;
+    height       : 120px;
+}

@@ -1,0 +1,12 @@
+.section .container .containerHalf,
+.section .container .containerHalf {
+    border      : 3px;
+    border-color: OrangeRed;
+    border-style: inset;
+}
+
+.containerHalf .containerContent {
+    border      : 1px;
+    border-color: white;
+    border-style: dotted;
+}

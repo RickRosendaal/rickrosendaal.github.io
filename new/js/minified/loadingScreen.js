@@ -1,0 +1,1 @@
+var t0=performance.now();document.addEventListener("imagesLoaded",function(){var b=performance.now();var a=1000-(b-t0);setTimeout(function(){$("body").addClass("loaded")},a)});
