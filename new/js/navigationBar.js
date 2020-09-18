@@ -10,14 +10,15 @@ function createMenuItem(section) {
 		$('body').addClass('loading');
 
 		if (section.id == "What-do-I-do") {
+			currentPage = originalPath + "portfolio/";
 			if (location.protocol == "file:") {
-				history.replaceState({}, "Portfolio", "#" + "portfolio");
+				History.pushState({}, "", currentPage);
 			} else {
-				history.replaceState({}, "Portfolio", currentPage);
+				History.pushState({}, "", currentPage);
 			}
 			onUnloadPage();
 			setTimeout(function() {
-				$('#main-content').load(fileLocationPrefix + 'portfolio.html #main-content', function() {
+				$('#main-content').load(originalPath + 'portfolio.html #main-content', function() {
 					createSectionImages();
 					onLoadPage();
 					waitForImagesToLoad();
@@ -27,15 +28,15 @@ function createMenuItem(section) {
 
 			}, 700);
 		} else {
-			currentPage = "";
+			currentPage = originalPath;
 			if (location.protocol == "file:") {
-				history.replaceState({}, "Home", "#");
+				History.pushState({}, "Home", currentPage);
 			} else {
-				history.replaceState({}, "Home", currentPage);
+				History.pushState({}, "Home", currentPage);
 			}
 			onUnloadPage();
 			setTimeout(function() {
-				$('#main-content').load(fileLocationPrefix + 'index.html #main-content', function() {
+				$('#main-content').load(originalPath + 'index.html #main-content', function() {
 					createSectionImages();
 					onLoadPage();
 					waitForImagesToLoad();

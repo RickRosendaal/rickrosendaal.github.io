@@ -11,6 +11,21 @@
         } else {
             fileLocationPrefix = "";
         }
+        var full = location.pathname;
+        var originalPath = full.substr(0, full.lastIndexOf("/") + 1);
+
+        [].forEach.call(document.querySelectorAll('img'), function(section) {
+            var src = $(this).prop('src');
+            console.log(section.id);
+            if (!src)
+                return;
+
+            console.log("derp");
+            if (src.toLowerCase().startsWith("http"))
+                return;
+
+            $(this).prop('src') = originalPath + src;
+        });
     </script>
 
     <link rel="stylesheet"
@@ -65,7 +80,7 @@
     <div id="main-content">
         <div id="Home"
              class="section"
-             src="./images/sections/Shotgo - Screenshot 1.jpg">
+             src="/images/sections/Shotgo - Screenshot 1.jpg">
             <div class="content">
                 <h1>
                     Rick Rosendaal
@@ -80,13 +95,13 @@
         </div>
         <div id="Who-am-I"
              class="section"
-             src="./images/sections/Snow.jpg">
+             src="/images/sections/Snow.jpg">
             <div class="container">
                 <div id="leftOrUpperContainer"
                      class="containerHalf">
                     <div class="containerContent">
                         <img id="profile-picture"
-                             src="./images/Rick.jpg">
+                             src="/images/Rick.jpg">
                     </div>
                 </div>
                 <div id="rightOrLowerContainer"
@@ -104,7 +119,7 @@
         </div>
         <div id="What-do-I-do"
              class="section"
-             src="./images/sections/Water.jpg">
+             src="/images/sections/Water.jpg">
             <div class="container">
                 <div id="leftOrUpperContainer"
                      class="containerHalf">
@@ -120,19 +135,20 @@
                 <div id="rightOrLowerContainer"
                      class="containerHalf">
                     <div class="containerContent">
-                        <img src="./images/icons/UE4.png">
+                        <img id="ha"
+                             src="/images/icons/UE4.png">
                     </div>
                 </div>
             </div>
         </div>
         <div id="My-experience"
              class="section"
-             src="./images/sections/Water V3.jpg">
+             src="/images/sections/Water V3.jpg">
             <div class="container">
                 <div id="leftOrUpperContainer"
                      class="containerHalf">
                     <div class="containerContent">
-                        <img src="./images/icons/Unity.png">
+                        <img src="/images/icons/Unity.png">
                     </div>
                 </div>
                 <div id="rightOrLowerContainer"
@@ -150,7 +166,7 @@
         </div>
         <div id="Lorem-ipsum"
              class="section"
-             src="./images/sections/Shotgo - Screenshot 1.jpg">
+             src="/images/sections/Shotgo - Screenshot 1.jpg">
             <div class="container">
                 <div id="leftOrUpperContainer"
                      class="containerHalf">
@@ -166,19 +182,19 @@
                 <div id="rightOrLowerContainer"
                      class="containerHalf">
                     <div class="containerContent">
-                        <img src="./images/icons/VisualStudio.png">
+                        <img src="/images/icons/VisualStudio.png">
                     </div>
                 </div>
             </div>
         </div>
         <div id="Ipsum-lorem"
              class="section"
-             src="./images/sections/Shotgo - Screenshot 2.jpg">
+             src="/images/sections/Shotgo - Screenshot 2.jpg">
             <div class="container">
                 <div id="leftOrUpperContainer"
                      class="containerHalf">
                     <div class="containerContent">
-                        <img src="./images/icons/Unity.png">
+                        <img src="/images/icons/Unity.png">
                     </div>
                 </div>
                 <div id="rightOrLowerContainer"
@@ -196,7 +212,7 @@
         </div>
         <div id="Tetracer"
              class="section"
-             src="./images/sections/Tetracer - Screenshot 3.jpg">
+             src="/images/sections/Tetracer - Screenshot 3.jpg">
 
         </div>
         <div id="Hopetoun-falls"
@@ -210,7 +226,7 @@
                 <div id="leftOrUpperContainer"
                      class="containerHalf">
                     <div class="containerContent">
-                        <img src="./images/icons/Unity.png">
+                        <img src="/images/icons/Unity.png">
                     </div>
                 </div>
                 <div id="rightOrLowerContainer"
@@ -235,7 +251,7 @@
         <img class="full-height
          waitUntilLoaded
          "
-             src="./images/sections/Water
+             src="/images/sections/Water
          V3.jpg
          ">
 
@@ -256,7 +272,7 @@
          ">
                 <img id="profile-picture
          "
-                     src="./images/Rick.jpg
+                     src="/images/Rick.jpg
          ">
             </div>
         </div>
@@ -270,7 +286,7 @@
         <img class="full-height
          waitUntilLoaded
          "
-             src="./images/sections/Snow.jpg
+             src="/images/sections/Snow.jpg
          ">
 
         <div class="content
@@ -291,15 +307,15 @@
          ">
                 <img class="icon
          "
-                     data-src="./images/icons/UE4.png
+                     data-src="/images/icons/UE4.png
          ">
                 <img class="icon
          "
-                     data-src="./images/icons/Unity.png
+                     data-src="/images/icons/Unity.png
          ">
                 <img class="icon
          "
-                     data-src="./images/icons/VisualStudio.png
+                     data-src="/images/icons/VisualStudio.png
          ">
             </div>
         </div>
@@ -341,7 +357,7 @@
         <img class="full-height
          waitUntilLoaded
          "
-             src="./images/sections/Tetracer
+             src="/images/sections/Tetracer
          -
          Screenshot
          2.jpg
@@ -401,7 +417,7 @@
         <img class="full-height
          waitUntilLoaded
          "
-             src="./images/sections/Tetracer
+             src="/images/sections/Tetracer
          -
          Screenshot
          1.jpg

@@ -131,7 +131,7 @@ function scroll(delta) {
 
 	enableFunction = setTimeout(function() {
 		disabled = false;
-	}, 700);
+	}, 100);
 }
 
 function doScrolling(element, duration) {
@@ -140,23 +140,24 @@ function doScrolling(element, duration) {
 
 	if (element.id == "Home")
 		if (location.protocol == "file:") {
-			history.replaceState({}, document.title, "");
+			history.pushState({
+				urlPath: currentPage
+			}, element.id.replace('-', ' '), currentPage);
 		} else {
-			history.replaceState({}, document.title, "");
+			history.pushState({
+				urlPath: currentPage
+			}, element.id.replace('-', ' '), currentPage);
 		}
 	else {
 		console.log("replacing history: " + element.id);
 		if (location.protocol == "file:") {
-			history.replaceState({}, document.title, "#" + element.id);
+			History.pushState({
+				urlPath: currentPage + element.id
+			}, element.id.replace('-', ' '), currentPage + element.id);
 		} else {
-			console.log("currentpage:" + currentPage);
-			console.log("element.id:" + element.id);
-			console.log("element.id.replace('-', ' '):" + element.id.replace('-', ' '));
-			if (typeof(currentPage) == 'undefined') {
-				currentPage = "";
-				log
-			}
-			history.replaceState({}, element.id.replace('-', ' '), currentPage + "/" + element.id);
+			History.pushState({
+				urlPath: currentPage + element.id
+			}, element.id.replace('-', ' '), currentPage + element.id);
 		}
 	}
 
