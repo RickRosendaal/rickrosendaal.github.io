@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/nl/skills", {data:[{}],fetch:[],mutations:void 0});

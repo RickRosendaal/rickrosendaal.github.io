@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/nl/page_not_found", {data:[{}],fetch:[],mutations:void 0});
